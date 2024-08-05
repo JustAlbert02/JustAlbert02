@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="python logo"  />
   <img width="17" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo"  />
@@ -22,14 +22,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustAlbert02&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustAlbert02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="albertdragan@gmail,com" target="_blank">
+<div align="left">
+  <a href="mailto:albertdragan@gmail,com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/albert-dragan-1318b523b/" target="_blank">
